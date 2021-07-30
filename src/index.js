@@ -3,9 +3,6 @@ import ReactDOM from 'react-dom';
 import CommentDetail from './CommentDetail';
 
 class App extends React.Component {
-    constructor(props) {
-        super(props);
-    }
 
     render() {
         const loop_data = [
